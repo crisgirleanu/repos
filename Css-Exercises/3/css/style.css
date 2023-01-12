@@ -1,0 +1,14 @@
+.firstEl,
+.secondEl {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', 'sans-serif';
+}
+
+.firstEl {
+    background-color: black;
+    color: white;
+}
+
+.secondEl {
+    background-color: yellow;
+}
